@@ -28,6 +28,7 @@ Refactored Code to Perform Analysis
 
 ![2018 Returns](./Resources/Results_2018.png)
 <sub>ENPH stood to continue to yield positive returns with a decrease from 129.5% to 81.9% between 2017 and 2018.
+
 <sub>RUN not only yielded a positive return both years, but its return increased significantly from 5.5% to 84.0% between 2017 to 2018.
 
 Original Code to Perform Analysis
